@@ -19,3 +19,11 @@ Splicing Therapy: Integration with alternate splicing data allows for the identi
 De Novo Peptide Design: Leveraging advanced generative models such as LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), VAE (Variational Autoencoder), and GAN (Generative Adversarial Network), researchers can generate novel anticancer peptides tailored to specific cancer types and genomic profiles.
 Conclusion:
 The release of the anticancer peptide dataset offers a valuable resource for cancer therapeutics research, providing researchers with access to a comprehensive collection of peptides and facilitating the development of innovative peptide-based treatments. By integrating this dataset with cancer genomic datasets and leveraging advanced computational techniques, researchers can accelerate the discovery of targeted therapies and personalized treatment strategies for cancer patients.
+
+
+#Dataset Description
+
+We created a anticancer peptide dataset integrating the positive samples with differnet literature, patents and databases such as CancerPPD, LAMP, APD3 etc.
+Similarly, the dataset with different CD-HIT were created where CD-HIT 0.90 means that the sample within the dataset with similarity more than 90 were removed using CH-HIT tools.
+
+For more desciptive dataset, we annoted a dataset using CancerPPD and AntiCP2.0 link. These database and the manuscript are referenced in manuscript. 
